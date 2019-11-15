@@ -48,7 +48,7 @@ void order(int &x, int &y, int &z)
   } 
   if (z>y)
   {        
-    swap(x,y);
+    swap(z,y);
   }
   return;
 }  
